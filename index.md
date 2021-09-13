@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 ![Créons un Tiers-Lieu ensemble](questionnaire_titre.png)
 ### Un Tiers-Lieu de quartier,  c’est un lieu ouvert à tous pour se rencontrer, partager, travailler, se reposer, se divertir, créer du lien social…
   
@@ -17,4 +16,3 @@ Nous sommes un collectif d'habitants souhaitant créer un tiers-lieu de quartier
   
   [questionnaire](https://framaforms.org/creons-un-tiers-lieu-de-quartier-ensemble-1629557305)
   
-  </div>
