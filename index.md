@@ -1,28 +1,28 @@
-## Welcome to GitHub Pages
+<div align="center">
+  
+![Créons un Tiers-Lieu ensemble](questionnaire_titre.png)
+### Un Tiers-Lieu de quartier,  c’est un lieu ouvert à tous pour se rencontrer, partager, travailler, se reposer, se divertir, créer du lien social…
+  ![donnez votre avis](questionnaire_fond.png)
+Nous sommes un collectif d'habitants souhaitant créer un tiers-lieu de quartier en cohérence avec les attentes des habitants de St Augustin et des quartiers limitrophes.
 
-You can use the [editor on GitHub](https://github.com/CecileAmey/lesbus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+   ![cliquez ici](questionnaire_lien.png) 
+  Cliquez ici pour accéder au [questionnaire](https://framaforms.org/creons-un-tiers-lieu-de-quartier-ensemble-1629557305)
 
-Whenever toto you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  
+  
+ 
 
-### Markdown
-![Image of Yaktocat](yaktocat.png)
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+ 
 
 [Link](url) and ![Image](src)
 ```
