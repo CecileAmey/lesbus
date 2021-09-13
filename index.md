@@ -1,5 +1,6 @@
-
-![Créons un Tiers-Lieu ensemble](questionnaire_titre.png)
+<p align="center" style="margin-top:50px">
+  <img src="/tl_staug/questionnaire_titre.png" />
+</p>
 ### Un Tiers-Lieu de quartier,  c’est un lieu ouvert à tous pour se rencontrer, partager, travailler, se reposer, se divertir, créer du lien social…
   
 <p align="center">
