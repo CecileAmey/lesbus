@@ -2,7 +2,7 @@
 <p align="center" style="margin-top:50px">
   <img src="/tl_staug/questionnaire_titre.png" />
 </p>
-<h2>Un Tiers-Lieu de quartier, c’est un lieu ouvert à tous pour se rencontrer, partager, travailler, se reposer, se divertir, créer du lien social…</h1>
+<h2>Un Tiers-Lieu de quartier, c’est un lieu ouvert à tous pour se rencontrer, partager, travailler, se reposer, se divertir, créer du lien social…</h2>
   
 <p align="center">
   <img src="/tl_staug/questionnaire_fond.png" />
