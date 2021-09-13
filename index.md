@@ -15,6 +15,7 @@ Nous sommes un collectif d'habitants souhaitant créer un tiers-lieu de quartier
   <a href="https://framaforms.org/creons-un-tiers-lieu-de-quartier-ensemble-1629557305"><img src="/tl_staug/questionnaire_lien.png" /></a>
 </p>
   Cliquez ici pour accéder au
+  
   [questionnaire](https://framaforms.org/creons-un-tiers-lieu-de-quartier-ensemble-1629557305)
   
 </div>
