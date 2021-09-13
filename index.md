@@ -1,3 +1,4 @@
+<div align="center" >
 <p align="center" style="margin-top:50px">
   <img src="/tl_staug/questionnaire_titre.png" />
 </p>
@@ -17,3 +18,4 @@ Nous sommes un collectif d'habitants souhaitant créer un tiers-lieu de quartier
   
   [questionnaire](https://framaforms.org/creons-un-tiers-lieu-de-quartier-ensemble-1629557305)
   
+</div>
